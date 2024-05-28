@@ -12,6 +12,6 @@ This project aims to predict the solubility of molecules in water using a linear
 ## Files
 
 - `Solubility_of_molecule.ipynb`: Jupyter notebook with all the steps and code.
-- `data/solubility_data.csv`: Dataset used for the project.
+- `delaney_solubility_with_descriptors.csv`: Dataset used for the project.
 
 
